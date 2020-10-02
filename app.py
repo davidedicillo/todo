@@ -1,4 +1,4 @@
-fromr os import environ
+from os import environ
 
 from flask import Flask, render_template, request, redirect, url_for
 from flask_wtf import FlaskForm
